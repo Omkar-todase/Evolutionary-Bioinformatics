@@ -4,11 +4,11 @@ Evolutionary relationships of a hypothetical archaeal protein using a standard c
 # Objective: To analyze the evolutionary history and relationships of a hypothetical archaeal protein by identifying homologs and constructing a phylogenetic tree
 
 # Summary: 
-1. Query Selection: Hypothetic Archaeal protein was obtaind from NCBI database.
-2. Homologus Identification: NCBI BlastP was used against non-reducdant database and 20 homologus sequence were retrieved.
-3. Multiple Sequence Alignment: Sequences were aligned using T-Coffee
-4. Data Cleaning: Manually data were removed. Identical and partial sequence were remove and 17 protein sequences was selected
-5. Phylogenetic tree: According to 17 protein sequence, phylogenetic rooted tree was build by IQ tree. 
+1. Query Selection: Hypothetic Archaeal protein was obtained from NCBI database.
+2. Homologus Identification: NCBI BLASTp was used against the non-redundant protein database, and 20 homologous sequences were retrieved.
+3. Multiple Sequence Alignment: All selected sequences were aligned using T-Coffee to identify conserved and variable regions
+4. Data Cleaning: The alignment was manually curated to remove partial and redundant sequences. After filtering, 17 high-quality protein sequences were retained for downstream analysis.
+5. Phylogenetic tree: A maximum-likelihood phylogenetic tree was constructed using IQ-TREE based on the 17 curated sequences. The resulting tree was midpoint-rooted for visualization.
 
 # Tools Used:
 1. NCBI BLASTp
