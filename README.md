@@ -1,7 +1,8 @@
 # Evolutionary-Bioinformatics
 Evolutionary relationships of a hypothetical archaeal protein using a standard comparative phylogenomic pipeline.
 
-# Objective: To analyze the evolutionary history and relationships of a hypothetical archaeal protein by identifying homologs and constructing a phylogenetic tree
+# Objective: 
+To analyze the evolutionary history and relationships of a hypothetical archaeal protein by identifying homologs and constructing a phylogenetic tree
 
 # Summary: 
 1. Query Selection: Hypothetic Archaeal protein was obtained from NCBI database.
