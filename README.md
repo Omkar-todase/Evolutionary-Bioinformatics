@@ -11,8 +11,7 @@ Evolutionary relationships of a hypothetical archaeal protein using a standard c
 5. Phylogenetic tree: According to 17 protein sequence, phylogenetic rooted tree was build by IQ tree. 
 
 # Tools Used:
-NCBI BLASTp
-T-Coffee / MAFFT (MSA)
-IQ-TREE (Phylogenetic inference)
-iTOL (Tree visualization)
-Python (optional for parsing/filtering)
+1. NCBI BLASTp
+2. T-Coffee / MAFFT (MSA)
+3. IQ-TREE (Phylogenetic inference)
+4. iTOL (Tree visualization)
